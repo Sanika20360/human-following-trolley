@@ -1,12 +1,10 @@
 #include <Wire.h>
 
-
 int vSpeed = 80;
 int turn_speed = 80;
 int t_p_speed = 125;
 int stop_distance = 20;
 int turn_delay = 10;
-
 
 const long interval1 = 500;
 
